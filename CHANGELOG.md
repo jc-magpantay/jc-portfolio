@@ -137,3 +137,21 @@ The project follows a feature-based development workflow, with one meaningful fe
   * Technical Support
   * Documentation & Knowledge Management
 * Preserved the existing Bootstrap layout, responsiveness, animations, and styling while replacing all template content.
+
+## [Unreleased]
+
+### Changed
+
+* Rewrote the Professional Experience summary to reflect over eight years of IT, CRM, database, and technical operations experience.
+* Updated the SPi Global role with improved responsibilities and corrected employment dates.
+* Added Global Link Inc. as the earliest professional experience to complete the career timeline.
+* Improved the overall Professional Experience section while preserving the existing responsive timeline layout.
+
+
+## [Unreleased]
+
+### Changed
+- Redesigned the Skills & Technologies section using categorized technology cards.
+- Replaced template progress bars with modern skill badges.
+- Added Skills & Technologies to the main navigation.
+- Improved homepage navigation to match the updated portfolio structure.
