@@ -124,3 +124,16 @@ The project follows a feature-based development workflow, with one meaningful fe
 * Continued feature-based Git workflow:
 
   * One meaningful feature per commit.
+
+### Changed
+
+* Replaced the template Services section with a personalized **Areas of Expertise** section.
+* Added six professional expertise cards:
+
+  * CRM Automation & Implementation
+  * IT Administration
+  * Database Management
+  * Process Automation
+  * Technical Support
+  * Documentation & Knowledge Management
+* Preserved the existing Bootstrap layout, responsiveness, animations, and styling while replacing all template content.
