@@ -1,0 +1,276 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-06-29",
+
+  "personal_information": {
+    "full_name": "John Carlo Magpantay",
+    "professional_title": "IT Administrator | CRM Administrator | CRM Automation Specialist",
+    "location": "Tanauan, Batangas, Philippines",
+    "phone": "+63 997 647 3275",
+    "email": "magpantaycarlo22@gmail.com",
+    "portfolio": "https://jc-magpantay.github.io/jc-portfolio/",
+    "linkedin": "https://linkedin.com/in/john-magpantay",
+    "github": "https://github.com/jc-magpantay"
+  },
+
+  "professional_summary": "IT Administrator and CRM Automation Specialist with over eight years of experience helping organizations improve business operations through CRM platforms, automation, database management, and technical support. Experienced in supporting EdTech, managed IT services, PropTech, and remote-first organizations using Microsoft Dynamics 365, GoHighLevel, SQL Server, Dataverse, Google Workspace, Python, and modern automation tools. Passionate about translating business requirements into practical technical solutions that improve efficiency, data quality, and collaboration. Currently focused on CRM administration, business process automation, AI-assisted workflows, and modern business systems.",
+
+  "career_focus": [
+    "CRM Administration",
+    "CRM Automation",
+    "Technical Operations",
+    "IT Administration",
+    "Business Systems",
+    "Database Management",
+    "Workflow Automation",
+    "Business Process Improvement"
+  ],
+
+  "core_competencies": [
+    "CRM Administration",
+    "CRM Automation",
+    "GoHighLevel",
+    "Microsoft Dynamics 365 Sales",
+    "Dataverse",
+    "SQL Server",
+    "MySQL",
+    "Power Automate",
+    "Google Workspace Administration",
+    "Technical Support",
+    "Workflow Automation",
+    "Lead Management",
+    "Data Migration",
+    "Data Quality",
+    "Business Process Analysis",
+    "System Administration",
+    "Python Automation",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript",
+    "PHP",
+    "Git",
+    "Linux CLI",
+    "Microsoft Azure"
+  ],
+
+  "professional_experience": [
+
+    {
+      "role": "IT Administrator",
+      "company": "Virtual Freelancer Asia",
+      "employment_type": "Full-time",
+      "dates": "2026 - Present",
+      "responsibilities": [
+        "Administer GoHighLevel CRM and automation workflows.",
+        "Develop recruitment funnels and landing pages.",
+        "Manage Google Workspace administration.",
+        "Provide IT administration and technical support.",
+        "Support HR and recruitment operations.",
+        "Develop CRM automations and business workflows."
+      ]
+    },
+
+    {
+      "role": "Database Administrator",
+      "company": "Vimenture LLC",
+      "employment_type": "Full-time",
+      "dates": "2024 - 2026",
+      "responsibilities": [
+        "Served as the primary Microsoft Dynamics 365 Sales administrator.",
+        "Configured CRM entities, custom fields, views, and opportunity pipelines.",
+        "Managed lead imports from Apollo.io using Excel and Google Sheets.",
+        "Performed large-scale data cleanup and duplicate detection.",
+        "Supported Dataverse administration.",
+        "Created Power Automate workflows.",
+        "Managed CRM users for Sales and Marketing teams.",
+        "Worked closely with stakeholders to align CRM processes with business requirements.",
+        "Self-learned Microsoft Dynamics through Microsoft Learn and hands-on implementation."
+      ]
+    },
+
+    {
+      "role": "Technical Virtual Assistant (Part-time)",
+      "company": "Algorithmics",
+      "employment_type": "Part-time",
+      "dates": "2024 - 2026",
+      "responsibilities": [
+        "Managed LMS administration.",
+        "Provided CRM support.",
+        "Performed technical troubleshooting.",
+        "Maintained course operations.",
+        "Supported internal technical operations.",
+        "Collaborated with international remote teams."
+      ]
+    },
+
+    {
+      "role": "Technical Support Engineer",
+      "company": "ACLT Computing Inc.",
+      "employment_type": "Full-time",
+      "dates": "2022 - 2024",
+      "responsibilities": [
+        "Administered SQL Server databases.",
+        "Optimized SQL queries and stored procedures.",
+        "Provided technical support to enterprise clients.",
+        "Managed Windows servers and infrastructure.",
+        "Resolved application and database issues."
+      ]
+    },
+
+    {
+      "role": "Computer Programmer",
+      "company": "Arktech Philippines Inc.",
+      "employment_type": "Full-time",
+      "dates": "2019 - 2021",
+      "responsibilities": [
+        "Developed web applications using PHP.",
+        "Designed MySQL databases.",
+        "Developed frontend interfaces using HTML, CSS, Bootstrap, and JavaScript.",
+        "Created reports and system enhancements.",
+        "Performed system maintenance."
+      ]
+    },
+
+    {
+      "role": "Data Technician",
+      "company": "SPi Global",
+      "employment_type": "Full-time",
+      "dates": "December 2017 - January 2019",
+      "responsibilities": [
+        "Processed and validated structured and unstructured data.",
+        "Performed quality assurance checks.",
+        "Maintained formatting and compliance standards.",
+        "Converted raw data into standardized formats."
+      ]
+    },
+
+    {
+      "role": "Data Entry Clerk",
+      "company": "Global Link Inc.",
+      "employment_type": "Full-time",
+      "dates": "August 2016 - September 2017",
+      "responsibilities": [
+        "Entered and maintained high-volume business data.",
+        "Performed quality assurance.",
+        "Corrected data inconsistencies.",
+        "Improved processing efficiency."
+      ]
+    }
+
+  ],
+
+  "featured_projects": [
+
+    {
+      "title": "Virtual Freelancer Asia Recruitment Automation System",
+      "technologies": [
+        "GoHighLevel",
+        "CRM",
+        "Automation",
+        "Funnels",
+        "Google Workspace"
+      ]
+    },
+
+    {
+      "title": "Algorithmics LMS & Technical Operations",
+      "technologies": [
+        "CRM",
+        "LMS",
+        "Technical Support",
+        "Operations"
+      ]
+    },
+
+    {
+      "title": "Microsoft Dynamics 365 Sales CRM Administration",
+      "technologies": [
+        "Dynamics 365",
+        "Dataverse",
+        "Power Automate",
+        "Apollo.io",
+        "Excel"
+      ]
+    }
+
+  ],
+
+  "education": [
+
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Batangas State University – JPLPC Malvar Campus",
+      "dates": "2012 - 2017"
+    }
+
+  ],
+
+  "technical_skills": {
+
+    "crm": [
+      "GoHighLevel",
+      "Microsoft Dynamics 365 Sales",
+      "Dataverse"
+    ],
+
+    "automation": [
+      "Power Automate",
+      "Python",
+      "Google Workspace Automation"
+    ],
+
+    "database": [
+      "SQL Server",
+      "MySQL"
+    ],
+
+    "programming": [
+      "PHP",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ],
+
+    "cloud": [
+      "Microsoft Azure",
+      "Google Workspace"
+    ],
+
+    "tools": [
+      "Git",
+      "Linux CLI",
+      "Excel",
+      "Google Sheets",
+      "Apollo.io",
+      "Coda",
+      "Airtable"
+    ]
+
+  },
+
+  "continuous_learning": {
+
+    "microsoft_learn": {
+      "level": 8,
+      "badges": 34,
+      "trophies": 7
+    },
+
+    "currently_learning": [
+      "CRM Automation",
+      "AI-assisted Workflows",
+      "GoHighLevel",
+      "Airtable",
+      "Coda",
+      "Power Automate",
+      "Dataverse",
+      "Business Process Automation"
+    ]
+
+  },
+
+  "career_objective": "Seeking opportunities as an IT Administrator, CRM Administrator, CRM Automation Specialist, Technical Operations Specialist, or Business Systems Administrator where I can help organizations improve efficiency through CRM platforms, automation, and business process optimization."
+}

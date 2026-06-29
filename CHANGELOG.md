@@ -17,6 +17,15 @@ The project follows a feature-based development workflow, with one meaningful fe
 * Replace placeholder project cards with real projects
 * Improve accessibility (alt text, aria labels, semantic HTML)
 
+### Changed
+
+* Updated SEO metadata for the homepage and all published case study pages.
+* Replaced homepage contact form with a static contact section and removed PHP form validation references.
+
+### Accessibility
+
+* Added meaningful aria-labels to icon-only links and navigation controls, and added descriptive alt text for key portfolio images.
+
 ---
 
 ## [2026-06-29]
