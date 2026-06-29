@@ -60,6 +60,19 @@ The project follows a feature-based development workflow, with one meaningful fe
 
 ---
 
-## [2026-06-28]
+## [2026-06-29]
 
-...
+### Added
+
+* Added `projects/algorithmics-lms.md` as the source documentation for the Algorithmics & Clubhouse Engineers case study.
+* Generated `projects/algorithmics-lms.html` from the reusable project template.
+* Added a new Featured Project highlighting Technical Operations, CRM Management, and LMS Administration experience.
+
+### Changed
+
+* Updated the second Featured Project card on the homepage to link to the new Algorithmics case study.
+
+### Development
+
+* Continued using the Markdown-first workflow where Markdown is the source of truth and HTML is generated from the reusable template.
+
