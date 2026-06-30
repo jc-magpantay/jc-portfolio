@@ -23,5 +23,3 @@ Every featured project is documented in two formats:
 3. Copy `_TEMPLATE.html`.
 4. Generate the HTML page from the Markdown using GitHub Copilot.
 5. Link the project from the homepage.
-
-This workflow keeps project documentation easy to maintain while ensuring a consistent presentation across the portfolio.
