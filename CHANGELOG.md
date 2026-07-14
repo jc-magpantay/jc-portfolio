@@ -10,6 +10,7 @@ The project follows a feature-based development workflow, with one meaningful fe
 
 ### Changed
 
+* Replaced the visual homepage Hero background with a muted looping video element while retaining `assets/img/hero-bg.jpg` as its poster fallback and social-sharing image.
 * Updated the Professional Experience timeline with the Local Launchpad Website Image & Asset Specialist role and corrected employment dates for current and previous roles.
 * Removed the Global Link Inc. Data Entry Clerk entry from the homepage timeline.
 

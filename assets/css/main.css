@@ -543,7 +543,7 @@ section,
   justify-content: center;
 }
 
-.hero img {
+.hero video {
   position: absolute;
   inset: 0;
   display: block;
