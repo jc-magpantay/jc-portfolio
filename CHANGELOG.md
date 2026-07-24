@@ -10,16 +10,23 @@ The project follows a feature-based development workflow, with one meaningful fe
 
 ### Changed
 
+* Renamed the Local Launchpad case-study source and presentation files to align with the broader multi-client project scope.
 * Replaced the visual homepage Hero background with a muted looping video element while retaining `assets/img/hero-bg.jpg` as its poster fallback and social-sharing image.
 * Updated the Professional Experience timeline with the Local Launchpad Website Image & Asset Specialist role and corrected employment dates for current and previous roles.
 * Removed the Global Link Inc. Data Entry Clerk entry from the homepage timeline.
 
 ### Added
 
+* Added the Engineering Support Automation Toolkit self-directed portfolio case study:
+
+  * `projects/engineering-support-automation-toolkit.md`
+  * `projects/engineering-support-automation-toolkit.html`
+* Added an Engineering Support Automation Toolkit Featured Project card and a clearly labeled placeholder visual for future sanitized project screenshots.
+
 * Added the Local Launchpad website image and asset support case study covering multi-client website production work:
 
-  * `projects/edens-edge-landscaping.md`
-  * `projects/edens-edge-landscaping.html`
+  * `projects/local-launchpad.md`
+  * `projects/local-launchpad.html`
 * Added a Local Launchpad Featured Project card linked to the new case study.
 * Added a clearly labeled placeholder visual pending approval of publishable client website screenshots.
 
